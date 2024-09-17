@@ -13,9 +13,6 @@ Este projeto web é dedicado aos fãs de Stranger Things. Ele permite que os usu
 ## Demonstração
 [https://stranger-things-xi.vercel.app/]
 
-## Licença
-Este projeto está licenciado sob a licença MIT.
-
 ## Autores
 * [Henrique Marques] - Desenvolvedor principal
 
