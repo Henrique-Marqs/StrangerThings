@@ -8,7 +8,7 @@ Este projeto web é dedicado aos fãs de Stranger Things. Ele permite que os usu
 * História
 
 ## Tecnologias Utilizadas
-* **Frontend:** React, JavaScript, CSS
+* **Frontend:** HTML, JavaScript, CSS
 
 ## Demonstração
 [https://stranger-things-xi.vercel.app/]
