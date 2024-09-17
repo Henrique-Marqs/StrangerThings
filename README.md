@@ -11,7 +11,7 @@ Este projeto web é dedicado aos fãs de Stranger Things. Ele permite que os usu
 * **Frontend:** React, JavaScript, CSS
 
 ## Demonstração
-[Link para uma demonstração ao vivo, se disponível]
+[https://stranger-things-xi.vercel.app/]
 
 ## Licença
 Este projeto está licenciado sob a licença MIT.
